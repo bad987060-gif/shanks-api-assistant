@@ -1,0 +1,6 @@
+{
+  "name": "Shanks API Assistant",
+  "description": "Red-Haired Shanks AI Assistant for API setup, code generation (Python, Flutter, Node.js, Kotlin), JSON parsing, and endpoint testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
